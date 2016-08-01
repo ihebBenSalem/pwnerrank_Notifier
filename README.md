@@ -23,11 +23,12 @@ You need to include your cookies to run the code .
 exemple of cookies and sessions
 `cmdCurl='curl --cookie "csrftoken=BLABLABLA; sessionid=BLABLABLA" http://www.pwnerrank.com/categories/ | grep "<small>" >>pwnerrank.com'
 `
-`
+RUN : 
+```
 $ git clone https://github.com/ihebBenSalem/pwnerrank_Notifier.git
 $ cd pwnerrank_Notifier.git
 $ python notifier.py
-`
+```
 #Recommendation
 You can use <Worker> to run the script every 1 h and get the new updates . 
 #Says thank you
