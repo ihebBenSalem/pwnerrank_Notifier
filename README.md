@@ -31,6 +31,6 @@ $ cd pwnerrank_Notifier.git
 $ python notifier.py
 ```
 #Recommendation
-You can use <Worker> to run the script every 1 h and get the new updates . 
+You can use `Worker` to run the script every 1 h and get the new updates . 
 #Says thank you
 Big thanks to Mr .Fahmi ben Khlifa CEO of Tunisian white hat security who have inspired me to write this code 
