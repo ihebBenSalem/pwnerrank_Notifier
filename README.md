@@ -27,7 +27,7 @@ exemple of cookies and sessions
 RUN : 
 ```
 $ git clone https://github.com/ihebBenSalem/pwnerrank_Notifier.git
-$ cd pwnerrank_Notifier.git
+$ cd pwnerrank_Notifier
 $ python notifier.py
 ```
 #Recommendation
